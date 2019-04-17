@@ -5,7 +5,11 @@
 <title>Tu Higienista Bucodental</title>
 <link>https://darkmedal.github.io/thb/index_thb2.html</link>
 <description>Consejos sobre salud bucodental</description>
-<image url="https://darkmedal.github.io/thb/prin.jpg"/>
+<image>
+	<url>https://darkmedal.github.io/thb/prin.jpg</url>
+	<link>https://darkmedal.github.io/thb/index_thb2.html</link>
+	<title>Tu Higienista Bucodental</title>
+	
 
 	<item>
 		<title>¿Qué hacer ante un dolor de muelas?</title>
