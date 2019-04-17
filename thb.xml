@@ -15,31 +15,46 @@
 	<item>
 		<title>¿Qué hacer ante un dolor de muelas?</title>
 		<link>https://darkmedal.github.io/thb/body2_thb.html</link>
-		<description url="https://darkmedal.github.io/thb/dolor.png">Ante un dolor de muelas la mejor forma de actuar es acudir a tu odontólogo, pero...</description>
+		<description>
+			<img src="https://darkmedal.github.io/thb/dolor.png"/>
+			Ante un dolor de muelas la mejor forma de actuar es acudir a tu odontólogo, pero...
+		</description>
 	</item>
 
 	<item>
 		<title>¿Cómo elijo a mi dentista?</title>
 		<link>https://darkmedal.github.io/thb/body3_thb.html</link>
-		<description url="https://darkmedal.github.io/thb/dentista.png">Pautas para elegir a tu dentista de confianza</description>
+		<description>
+			<img src="https://darkmedal.github.io/thb/dentista.png"/>
+			Pautas para elegir a tu dentista de confianza
+		</description>
 	</item>
 
 	<item>
 		<title>¿Cuántas veces debo cepillarme?</title>
 		<link>https://darkmedal.github.io/thb/body4_thb.html</link>
-		<description url="https://darkmedal.github.io/thb/cepillo.png">Resolvemos tus dudas acerca del cepillado</description>
+		<description>
+			<img src="https://darkmedal.github.io/thb/cepillo.png"/>
+			Resolvemos tus dudas acerca del cepillado
+		</description>
 	</item>
 
 	<item>
 		<title>¿Los implantes dentales son seguros?</title>
 		<link>https://darkmedal.github.io/thb/body5_thb.html</link>
-		<description url="https://darkmedal.github.io/thb/implante.jpg>Te falta una pieza y quieres reponerla, ¿verdad?</description>
+		<description>
+			<img src="https://darkmedal.github.io/thb/implante.jpg"/>
+			Te falta una pieza y quieres reponerla, ¿verdad?
+		</description>
 	</item>
 
 	<item>
 		<title>¿Cúantos tipos de brackets hay?</title>
 		<link>https://darkmedal.github.io/thb/body6_thb.html</link>
-		<description url="https://darkmedal.github.io/thb/brackets.jpg>¿Estás pensando ponerte brackets?</description>
+		<description>
+			<img src="https://darkmedal.github.io/thb/brackets.jpg"/>
+			¿Estás pensando ponerte brackets?
+		</description>
 	</item>
 
 
